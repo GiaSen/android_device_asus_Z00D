@@ -1,1 +1,1 @@
-LineageOS tree for Z00D
+LineageOS 14.1 tree for Z00D
